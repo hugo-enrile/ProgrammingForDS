@@ -24,4 +24,4 @@ def permuta_reps(c,s,suma):
 
 permuta_reps(values,5,100)
 assert portfolio.shape[0] == n_combinations(5,20)
-portfolio.to_csv('C:/Users/gulum/Desktop/Data Science Msc/Programming/portfolio_allocations.csv', header = True, index = False)
+portfolio.to_csv('portfolio_allocations.csv', header = True, index = False)
