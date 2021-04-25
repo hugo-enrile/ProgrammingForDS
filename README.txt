@@ -1,8 +1,8 @@
 Group 05 formed by:
 
-[Hugo Enrile](github.com/hugo-enrile) @hugo-enrile
-[Alejandro Gouloumis](github.com/agouloumis) @agouloumis
-[Joel Ramirez](github.com/TMPLR11) @TMPLR11
+[Hugo Enrile] @hugo-enrile
+[Alejandro Gouloumis] @agouloumis
+[Joel Ramirez] @TMPLR11
 
 
 Files and directory:
