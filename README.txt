@@ -7,8 +7,7 @@ Joel Ramirez - @TMPLR11
 
 Files and directory:
 
-All have to be at the same working directory
-
+All files have to be at the same working directory. In addition to the files there are two folders: outputs, where the .csv files created by the different scripts are, and analysis, which contains the data and notebook necessary to carry out the last part of the project.
 
 To run:
 
@@ -34,5 +33,7 @@ Generates: Trading_methodologies.csv
 
 Part4: Calculation of the portfolio metrics
 Generates: Portfolio_Metrics.csv
+
+Report_DS.pdf: Report of the analysis part
 
 
