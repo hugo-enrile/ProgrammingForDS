@@ -18,7 +18,7 @@ The only requirement is to have the working directory with all the scripts and c
 
 Requirements:
 
-The libraries required are in the requirements.txt and can be installed through: pip install requirements.txt
+The libraries required are in the requirements.txt and can be installed through: pip install -r requirements.txt
 
 Files:
 
